@@ -1,3 +1,7 @@
+body{
+   background: pink;
+}
+
 .img-fluid{
     max-width: 100%;
     padding: 30px;
@@ -17,3 +21,4 @@ p{
     text-align: center;
     margin: 0 10px;
 }
+
